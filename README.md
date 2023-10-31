@@ -1,6 +1,5 @@
-# SMS_sending-OTP_verification-using-twilio
+# SMS_sending_service-using-twilio
 
-## SMS-sending-service
 ### Integrate SMS sending functionality into your Spring Boot application using the Twilio API.
 
 Here's a step-by-step guide to creating an SMS sending service in Spring Boot using Twilio:
