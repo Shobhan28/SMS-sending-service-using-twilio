@@ -1,4 +1,4 @@
-# SMS_sending_service-using-twilio
+# SMS sending service using twilio
 
 ### Integrate SMS sending functionality into your Spring Boot application using the Twilio API.
 
